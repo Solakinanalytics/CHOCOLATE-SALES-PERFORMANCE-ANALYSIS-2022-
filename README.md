@@ -2,7 +2,8 @@
 ## Project Overview
 This project analyzes chocolate sales performance for Burger King in 2022 using Microsoft Excel. The dashboard provides insights into revenue trends, top-performing countries, product performance, shipment volume, and salesperson contributions. The goal is to support better business and sales decisions through data analysis.
 
-## Objectives- Analyze sales performance across countries
+## Objectives
+- Analyze sales performance across countries
 - Identify top-selling chocolate products
 - Evaluate shipment volume by country
 - Assess salesperson performance
